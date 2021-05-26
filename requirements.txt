@@ -22,14 +22,14 @@ numpy == 1.19.5
 # C:\Users\DELL\Downloads\apis\app.py: 12
 # C:\Users\DELL\Downloads\apis\utils.py: 4
 pandas == 1.0.4
-
-# C:\Users\DELL\Downloads\apis\app.py: 9
+six==1.15.0
+# C:\Users\DELL\Downloads\apis\api.py: 9
 # C:\Users\DELL\Downloads\apis\utils.py: 7
 scikit_learn == 0.22.2.post1
 
-# C:\Users\DELL\Downloads\apis\app.py: 8
+# C:\Users\DELL\Downloads\apis\api.py: 8
 # C:\Users\DELL\Downloads\apis\utils.py: 6
 scipy == 1.4.1
-
-# C:\Users\DELL\Downloads\apis\app.py: 13
-tensorflow == 2.4.1
+h5py==2.10.0
+# C:\Users\DELL\Downloads\apis\api.py: 13
+tensorflow-cpu == 2.4.1
