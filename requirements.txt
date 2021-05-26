@@ -33,3 +33,4 @@ scipy == 1.4.1
 h5py==2.10.0
 # C:\Users\DELL\Downloads\apis\api.py: 13
 tensorflow-cpu == 2.4.1
+gunicorn==50.3.2
